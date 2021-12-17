@@ -1,0 +1,22 @@
+{
+  "name": "@tasinhoque/npm-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tasinhoque/npm-package-by-tasin.git"
+  },
+  "author": "Tasin Hoque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tasinhoque/npm-package-by-tasin/issues"
+  },
+  "homepage": "https://github.com/tasinhoque/npm-package-by-tasin#readme"
+}
